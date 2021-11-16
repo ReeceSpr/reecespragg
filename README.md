@@ -1,12 +1,7 @@
 Progress: 🟢 Designed, 🟠 Developed, ⚫️ Polished.
 # reecespragg
 
-A portfolio designed and implemented. 
+A portfolio of my current projects.
 
-Design is from a template.
-
-Implementated email sign up using firebase to store and notify the owner of who has requested contact.
-
-Website:
-
-https://reecespragg-ce722.web.app
+Website Hosted On:
+https://reecespragg.com
